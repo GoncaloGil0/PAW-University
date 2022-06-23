@@ -29,7 +29,7 @@ Este projeto consiste no desenvolvimento de uma API REST e de um Website utiliza
 ### Clonar o repositorio
 
 ``` bash
-git clone https://github.com/lmpc2001/PAW.git
+git clone https://github.com/GoncaloGil0/PAW-University.git
 ```
 
 ### Desenvolvimento
