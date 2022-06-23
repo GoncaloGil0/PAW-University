@@ -1,4 +1,4 @@
-# Programação em Ambiente Web
+# PAW - Programação em Ambiente Web
 
 ![PAW](https://img.shields.io/badge/Faculdade-PAW-orange)
 ![Nota final](https://img.shields.io/badge/Nota%20final-14-orange)
